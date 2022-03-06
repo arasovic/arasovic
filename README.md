@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 🎪 My personal site [arasmehmet.com](https://arasmehmet.com?target=_blank)
+- 🎪 My personal site <a href="https://arasmehmet.com" target="_blank">arasmehmet.com</a>
 
 - 💬 Ask me about **React**
 
