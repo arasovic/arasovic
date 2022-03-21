@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/aras_js" target="blank"><img src="https://img.shields.io/twitter/follow/aras_js?logo=twitter&style=for-the-badge" alt="aras_js" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning: **Javascript**
 
-- 🎪 My personal site <a href="https://arasmehmet.com" target="_blank">arasmehmet.com</a>
+- 🎪 My personal site: <a href="https://arasmehmet.com" target="_blank">arasmehmet.com</a>
 
-- 💬 Ask me about **React**
+- 💬 Ask me about: **React**
 
-- 📫 How to reach me **arasmehmet07@gmail.com**
+- 📫 How to reach me: **arasmehmet07@gmail.com**
 
-- ⚡ Fun fact **I am really good player on Battlefield 5**
+- ⚡ Fun fact: **I am really good player on Battlefield 5**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
