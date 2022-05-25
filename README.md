@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aras</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate and graduated javascript developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arasovic&label=Visitors&color=20e506&style=plastic" alt="arasovic" /> </p>
