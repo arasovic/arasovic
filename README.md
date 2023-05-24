@@ -1,3 +1,9 @@
+<h1 align="center">
+<a href="https://arasmehmet.com" target="blank">Personal Site</a>
+ <hr/>
+ <a href="https://linkedin.com/in/arasmehmet7" target="blank">LinkedIn</a>
+</h1>
+
 <h1 align="center"><img align="center" src="https://c.tenor.com/l16K_-1vua8AAAAd/everybody-fight.gif" /></h1>
 <!-- <h3 align="center">A passionate and graduated javascript developer from Turkey</h3> -->
 
