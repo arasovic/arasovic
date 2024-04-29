@@ -4,7 +4,7 @@
  <a href="https://linkedin.com/in/arasmehmet7" target="blank">LinkedIn</a>
 </h3>
 <br>
-<h1 align="center"><img align="center" src="https://c.tenor.com/l16K_-1vua8AAAAd/everybody-fight.gif" /></h1>
+<img align="center" src="https://i.hizliresim.com/sczu20h.gif" />
 <!-- <h3 align="center">A passionate and graduated javascript developer from Turkey</h3> -->
 
 
