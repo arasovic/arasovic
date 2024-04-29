@@ -3,8 +3,9 @@
  <hr>
  <a href="https://linkedin.com/in/arasmehmet7" target="blank">LinkedIn</a>
 </h3>
-<br>
-<img align="center" src="https://i.hizliresim.com/sczu20h.gif" />
+<hr/>
+<h1 align="center"><img src="https://github.com/arasovic/arasovic/assets/9802740/0849cb67-15da-4255-90c9-6a433fc4f544" /></h1>
+
 <!-- <h3 align="center">A passionate and graduated javascript developer from Turkey</h3> -->
 
 
