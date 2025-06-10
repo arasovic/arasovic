@@ -23,6 +23,6 @@
 </p>
  -->
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arasovic&show_icons=true&locale=en&layout=compact" alt="arasovic" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arasovic&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arasovic&" alt="arasovic" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arasovic&theme=tokyonight" alt="mystreak"/></p>
