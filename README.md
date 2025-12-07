@@ -10,11 +10,8 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arasovic&theme=tokyonight" alt="mystreak"/></p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arasovic&theme=tokyonight" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arasovic&theme=tokyonight&utcOffset=3" alt="productive-time" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arasovic&theme=tokyonight" alt="repos-per-language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arasovic&theme=tokyonight" alt="most-commit-language" />
 </p>
+
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arasovic&theme=tokyonight&utcOffset=3" alt="productive-time" /></p>
