@@ -6,11 +6,11 @@
 <br><br>
 
 <!-- Social Links - Prominent -->
-<a href="https://arasmehmet.com">
+<a href="https://arasmehmet.com" target="_blank">
   <img src="https://img.shields.io/badge/arasmehmet.com-000000?style=for-the-badge&logo=Safari&logoColor=white" alt="Website" />
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/arasmehmet7">
+<a href="https://linkedin.com/in/arasmehmet7" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
@@ -23,7 +23,7 @@
 <br>
 
 <!-- Streak -->
-<img src="https://streak-stats.demolab.com/?user=arasovic&theme=tokyonight&hide_border=true&background=00000000" width="60%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=arasovic&theme=tokyonight&hide_border=true&background=00000000" width="60%" />
 
 <br>
 
