@@ -6,11 +6,11 @@
 <br><br>
 
 <!-- Social Links - Prominent -->
-<a href="https://arasmehmet.com" target="_blank">
+<a href="https://arasmehmet.com">
   <img src="https://img.shields.io/badge/arasmehmet.com-000000?style=for-the-badge&logo=Safari&logoColor=white" alt="Website" />
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/arasmehmet7" target="_blank">
+<a href="https://linkedin.com/in/arasmehmet7">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
