@@ -1,10 +1,19 @@
 <div align="center">
 
 <!-- THEME: algolia -->
-<!-- Options: algolia, algolia, algolia, algolia, algolia, algolia, algolia, algolia, algolia, algolia -->
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00AEFF&center=true&vCenter=true&random=false&width=580&lines=Gabagool+Driven+Development+%F0%9F%A4%8C;I+make+UIs+you+can't+refuse;The+Boss+of+the+React;Bada+Bing%2C+Bada+Boom%2C+Deployed" alt="Typing SVG" />
+
+<br>
 
 <!-- Hero Section -->
 <img src="https://github.com/arasovic/arasovic/assets/9802740/0849cb67-15da-4255-90c9-6a433fc4f544" width="280" />
+
+<br><br>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=arasovic&style=for-the-badge&color=00d9ff" alt="Profile Views" />
 
 <br><br>
 
@@ -35,6 +44,11 @@
 
 <br>
 
+<!-- 3D Contribution -->
+<img src="https://raw.githubusercontent.com/arasovic/arasovic/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
+
+<br>
+
 <!-- Trophy Row -->
 <img src="https://github-trophies.vercel.app/?username=arasovic&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
 
@@ -52,6 +66,11 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arasovic&theme=algolia" height="160" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arasovic&theme=algolia&utcOffset=3" height="160" />
+
+<br><br>
+
+<!-- Random Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" width="70%" />
 
 <br><br>
 
