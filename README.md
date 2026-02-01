@@ -69,11 +69,6 @@
 
 <br><br>
 
-<!-- Random Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" width="70%" />
-
-<br><br>
-
 <!-- Snake Animation - Footer Element -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arasovic/arasovic/output/github-snake-dark.svg" />
