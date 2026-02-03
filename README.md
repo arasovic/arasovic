@@ -3,7 +3,7 @@
 <!-- THEME: algolia -->
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00AEFF&center=true&vCenter=true&random=false&width=580&lines=Gabagool+Driven+Development+%F0%9F%A4%8C;I+make+UIs+you+can't+refuse;The+Boss+of+the+React;Bada+Bing%2C+Bada+Boom%2C+Deployed" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00AEFF&center=true&vCenter=true&random=false&width=900&lines=I+don't+convert+Figma+to+code,+I+solve+problems;Pixel-perfect+and+annoyingly+accessible+or+nothing;Your+grandma+can+use+my+UIs" alt="Typing SVG" />
 
 <br>
 
