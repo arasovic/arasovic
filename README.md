@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/arasovic/arasovic/assets/9802740/0849cb67-15da-4255-90c9-6a433fc4f544" width="140" />
+<img src="https://github.com/arasovic/arasovic/assets/9802740/0849cb67-15da-4255-90c9-6a433fc4f544" width="180" />
 
 <br><br>
 
