@@ -8,6 +8,8 @@
 ui, but it works.
 ```
 
+<img src="cv.png" width="360" />
+
 <br>
 
 <a href="https://arasmehmet.com">arasmehmet.com</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/arasmehmet7">linkedin</a>
