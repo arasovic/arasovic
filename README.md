@@ -8,10 +8,15 @@
 ui, but it works.
 ```
 
-<img src="cv.png" width="360" />
+<img src="languages.svg#gh-dark-mode-only" />
+<img src="languages.svg#gh-light-mode-only" />
 
 <br>
 
 <a href="https://arasmehmet.com">arasmehmet.com</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/arasmehmet7">linkedin</a>
+
+<br><br>
+
+<img src="cv.png" width="360" />
 
 </div>
