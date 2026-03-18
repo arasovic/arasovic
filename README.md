@@ -8,8 +8,7 @@
 ui, but it works.
 ```
 
-<img src="languages.svg#gh-dark-mode-only" />
-<img src="languages.svg#gh-light-mode-only" />
+<img src="cv.png" width="360" />
 
 <br>
 
@@ -17,6 +16,8 @@ ui, but it works.
 
 <br><br>
 
-<img src="cv.png" width="360" />
+
+<img src="languages.svg#gh-dark-mode-only" />
+<img src="languages.svg#gh-light-mode-only" />
 
 </div>
