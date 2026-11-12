@@ -10,7 +10,7 @@ ui, but it works.
 
 <br>
 
-<a href="https://arasmehmet.com">arasmehmet.com</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/arasmehmet7">linkedin</a>
+<a href="https://arasmehmet.com">arasmehmet.com</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/arasxmehmet">linkedin</a>
 
 <br><br>
 
